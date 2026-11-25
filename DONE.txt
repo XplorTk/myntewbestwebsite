@@ -1,2 +1,3 @@
 upding the file for checking`:wq
+adding 3rd line to the file 
 adding 2nd line here on the done for the project 2
